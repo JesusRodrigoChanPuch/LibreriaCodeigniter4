@@ -17,7 +17,14 @@ este proyecto consiste en una pagina web de una biblioteca de libros con el prad
 <img src="https://github.com/JesusRodrigoChanPuch/LibreriaCodeigniter4/blob/master/public/uploads/ImagesExamples/loginExample.png" width="1080" height="600">
 <br> <br>
 <b>Opciones con Incio de sesion<b>
-<img src="https://github.com/JesusRodrigoChanPuch/LibreriaCodeigniter4/blob/master/public/uploads/ImagesExamples/ActiveSessionWithOptions.jpg" width="1080" height="600">
+<img src="https://github.com/JesusRodrigoChanPuch/LibreriaCodeigniter4/blob/master/public/uploads/ImagesExamples/ActiveSessionWithOptions.jpg" width="1080" height="1200">
 <br> <br>
 <b>formulario para agregar un libro<b>
 <img src="https://github.com/JesusRodrigoChanPuch/LibreriaCodeigniter4/blob/master/public/uploads/ImagesExamples/CreateBook.png" width="1080" height="600">
+<br> <br>
+<b>Editar o Eliminar libro<b>
+<img src="https://github.com/JesusRodrigoChanPuch/LibreriaCodeigniter4/blob/master/public/uploads/ImagesExamples/DeleteBook.png" width="1080" height="1200">
+
+<br> <br>
+<b>Actualizar informacion de libro<b>
+<img src="https://github.com/JesusRodrigoChanPuch/LibreriaCodeigniter4/blob/master/public/uploads/ImagesExamples/DeleteBook.png" width="1080" height="1200">
