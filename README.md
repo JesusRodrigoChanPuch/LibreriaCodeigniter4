@@ -12,3 +12,5 @@ este proyecto consiste en una pagina web de una biblioteca de libros con el prad
  4- bucador(busca un libro apartir de una palabra o frase )
     - vista de libros con relacion con lo buscado 
   5- generar Pdf de todos los libros disponibles
+<h3> Imagenes del sistema web</h3>
+<img src="https://github.com/JesusRodrigoChanPuch/LibreriaCodeigniter4/blob/master/public/uploads/ImagesExamples/loginExample.png" width="300" height="600">
