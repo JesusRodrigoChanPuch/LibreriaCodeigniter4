@@ -13,4 +13,9 @@ este proyecto consiste en una pagina web de una biblioteca de libros con el prad
     - vista de libros con relacion con lo buscado 
   5- generar Pdf de todos los libros disponibles
 <h3> Imagenes del sistema web</h3>
+<b>Inicio de sesion</b>
 <img src="https://github.com/JesusRodrigoChanPuch/LibreriaCodeigniter4/blob/master/public/uploads/ImagesExamples/loginExample.png" width="1080" height="600">
+<br> <br>
+<b>Opciones con Incio de sesion<b>
+<img src="https://github.com/JesusRodrigoChanPuch/LibreriaCodeigniter4/blob/master/public/uploads/ImagesExamples/ActiveSessionWithOptions.jpg" width="1080" height="600">
+
