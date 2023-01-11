@@ -31,6 +31,30 @@ class TLibros extends Migration
 				'type'       => 'VARCHAR',
 				'constraint' => '100',
 			],
+			'descripcionL'       => [
+				'type'       => 'TEXT',
+				'NULL'       => true,
+			],
+			'isbn'       => [
+				'type'       => 'INT',
+				'constraint' => '13',
+			],
+			'editorial'       => [
+				'type'       => 'VARCHAR',
+				'constraint' => '200',
+			],
+			'numPaginas'       => [
+				'type'       => 'INT',
+				'constraint' => '50',
+			],
+			'edicion'       => [
+				'type'       => 'INT',
+				'constraint' => '5',
+			],
+			'pais'       => [
+				'type'       => 'VARCHAR',
+				'constraint' => '255',
+			],
 		]);
 		$this->forge->addKey('id_libro', true);
 		$this->forge->createTable('t_libros');
@@ -38,6 +62,6 @@ class TLibros extends Migration
 
 	public function down()
 	{
-		$this->forge->dropTable('blog');
+		$this->forge->dropTable('t_libros');
 	}
 }

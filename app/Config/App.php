@@ -23,7 +23,7 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $baseURL = 'http://localhost/libreria/';
+	public $baseURL = 'http://localhost/LibreriaCodeigniter4/';
 
 	/**
 	 * --------------------------------------------------------------------------
