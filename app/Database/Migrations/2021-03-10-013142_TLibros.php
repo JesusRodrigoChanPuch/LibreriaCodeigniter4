@@ -52,6 +52,7 @@ class TLibros extends Migration
 				'constraint' => '5',
 			],
 			'pais'       => [
+				
 				'type'       => 'VARCHAR',
 				'constraint' => '255',
 			],
